@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
+    <groupId>lb</groupId>
     <artifactId>lb6p</artifactId>
     <version>1.0.0</version>
 
@@ -35,7 +35,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.App</mainClass>
+                            <mainClass>lb.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
